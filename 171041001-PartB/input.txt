@@ -1,1 +1,4 @@
-An embedded system is a computer system with a dedicated function within a larger mechanical or electrical system, often with real-time computing constraints. It is embedded as part of a complete device often including hardware and mechanical parts. Embedded systems control many devices in common use today. Ninety-eight percent of all microprocessors are manufactured as components of embedded systems.
+An embedded system is a computer system with a dedicated function within a larger mechanical or electrical system,
+often with real-time computing constraints. It is embedded as part of a complete device often including hardware
+and mechanical parts. Embedded systems control many devices in common use today. Ninety-eight percent of all
+microprocessors are manufactured as components of embedded systems.
