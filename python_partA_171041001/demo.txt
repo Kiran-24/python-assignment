@@ -1,0 +1,5 @@
+'''Implement a python code to count 
+	a) number of characters 
+	b) numbers of words 
+	c) number of lines 
+from an input file to output file.'''
